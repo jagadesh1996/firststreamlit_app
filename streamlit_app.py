@@ -7,3 +7,5 @@ streamlit.text('🥗 IDLY, POORI, DOSA, VADA, PONGAL')
 streamlit.text('🍞 Boiled EGG, TEA, COFFEE, BISCUITS...')
 streamlit.text('🐔 Biryani, Wings, 555....')
 
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+

@@ -1,8 +1,9 @@
 import streamlit
 
-streamlit.title('My Parents Healthy diner')
+streamlit.title('Hotel HAJ')
 
-streamlit.header('Breakfast Menu')
-streamlit.text('IDLY, POORI, DOSA, VADA, PONGAL')
-streamlit.text('Boiled EGG, TEA, COFFEE, BISCUITS')
+streamlit.header('Breakfast Menu🥣')
+streamlit.text(🥗--'IDLY, POORI, DOSA, VADA, PONGAL')
+streamlit.text(🍞--'Boiled EGG, TEA, COFFEE, BISCUITS...')
+streamlit.text(🐔--'Biryani, Wings, 555....')
 

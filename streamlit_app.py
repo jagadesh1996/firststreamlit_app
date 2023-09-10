@@ -2,7 +2,7 @@ import streamlit
 import pandas
 import requests
 import snowflake.connector
-from urllib.error imort URLerror
+from urllib.error import URLerror
 
 streamlit.title('Hotel HAJ')
 
